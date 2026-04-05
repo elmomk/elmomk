@@ -15,7 +15,7 @@ I build infrastructure, internal developer platforms, automation for work, and b
 - [gapi](https://github.com/elmomk/gapi) — Standalone Garmin Connect API service with event-driven sync and webhook dispatch
 - [lifemanager](https://github.com/elmomk/lifemanager) — Cyberpunk-themed mobile PWA for daily life management (Rust + Dioxus)
 - [retrogames](https://github.com/elmomk/retrogames) — Collection of retro browser games with Miyoo Mini Plus ports in Rust
-- [dotfiles](https://github.com/elmomk/dotfiles) — Arch Linux / Hyprland / Neovim setup
+- [dotfiles](https://github.com/elmomk/dotfiles) — Arch Linux / Hyprland / Quickshell / Neovim setup
 
 **Languages**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
