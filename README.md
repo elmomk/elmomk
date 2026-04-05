@@ -51,13 +51,6 @@ I build infrastructure, internal developer platforms, automation for work, and b
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=elmomk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmomk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" /></td>
-  </tr>
-</table>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmomk&theme=tokyonight&hide_border=true" />
 
 <picture>
