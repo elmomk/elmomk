@@ -1,14 +1,18 @@
-# Hey, I'm Salomo
+# Hey, I'm Mo
 
 Platform engineer based in **Taipei, Taiwan** working at **momo.com**.
 
-I build infrastructure, internal developer platforms, automation for work, and backend services for fun — mostly with Rust, Go, Python, HCL (Terraform/Terragrunt), a lot of YAML, and whatever gets the job done.
+I build infrastructure, internal developer platforms, automation for work, and backend services for fun — mostly with Rust, Go, Python, HCL, a lot of YAML, and whatever gets the job done. Lately I've been promoted to project manager of a team of AI agents who do the actual coding while I review PRs and pretend I wrote it.
 
 ## What I'm working on
 
 - [cc-watcher.nvim](https://github.com/elmomk/cc-watcher.nvim) — Neovim plugin that monitors Claude Code changes in real time with sidebar, inline diffs, and picker integrations
-- [gorilla_coach](https://github.com/elmomk/rusty_gorilla_coach) — Full-stack fitness coaching app in Rust (Leptos + Axum)
 - [tmux_cc_attention](https://github.com/elmomk/tmux_cc_attention) — tmux plugin that alerts you when Claude Code needs attention
+- [gorilla_coach](https://github.com/elmomk/rusty_gorilla_coach) — Full-stack fitness coaching app in Rust (Leptos + Axum)
+- [gorilla_chatbot](https://github.com/elmomk/gorilla_chatbot) — MCP server and chat interface for AI-powered strength training coaching
+- [gapi](https://github.com/elmomk/gapi) — Standalone Garmin Connect API service with event-driven sync and webhook dispatch
+- [lifemanager](https://github.com/elmomk/lifemanager) — Cyberpunk-themed mobile PWA for daily life management (Rust + Dioxus)
+- [retrogames](https://github.com/elmomk/retrogames) — Collection of retro browser games with Miyoo Mini Plus ports in Rust
 - [dotfiles](https://github.com/elmomk/dotfiles) — Arch Linux / Hyprland / Neovim setup
 
 **Languages**
@@ -28,6 +32,7 @@ I build infrastructure, internal developer platforms, automation for work, and b
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 **Tools**
 ![Neovim](https://img.shields.io/badge/Neovim_(btw)-57A143?style=flat&logo=neovim&logoColor=white)
