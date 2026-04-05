@@ -2,7 +2,7 @@
 
 Platform engineer based in **Taipei, Taiwan** working at **momo.com**.
 
-I build infrastructure, backend services, and developer tools — mostly with Rust, Go, Python, and whatever gets the job done.
+I build infrastructure, internal developer platforms, automation for work, and backend services for fun — mostly with Rust, Go, Python, HCL (Terraform/Terragrunt), a lot of YAML, and whatever gets the job done.
 
 ## What I'm working on
 
@@ -12,23 +12,28 @@ I build infrastructure, backend services, and developer tools — mostly with Ru
 
 ## Stack
 
-```
-Languages    Rust, Go, Python, Lua, Shell, HCL
-Infra        Kubernetes, Terraform, Docker, GitOps
-Platforms    Linux, Azure, AWS
-Editor       Neovim (btw)
-OS           Arch Linux (btw)
-```
-
-## Certifications
-
-- Certified Kubernetes Administrator (CKA)
-- Red Hat Certified Engineer (RHCE)
-- Red Hat Certified System Administrator (RHCSA)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
 
 ## Languages (the human kind)
 
-Dutch (native) | English | Chinese | French | Spanish
+![Dutch](https://img.shields.io/badge/Dutch-native-21468B?style=flat)
+![English](https://img.shields.io/badge/English-fluent-012169?style=flat)
+![Chinese](https://img.shields.io/badge/Chinese-中文-DE2910?style=flat)
+![French](https://img.shields.io/badge/French-français-002395?style=flat)
+![Spanish](https://img.shields.io/badge/Spanish-español-AA151B?style=flat)
 
 ---
 
