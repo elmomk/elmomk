@@ -8,24 +8,31 @@ I build infrastructure, internal developer platforms, automation for work, and b
 
 - [cc-watcher.nvim](https://github.com/elmomk/cc-watcher.nvim) — Neovim plugin that monitors Claude Code changes in real time with sidebar, inline diffs, and picker integrations
 - [gorilla_coach](https://github.com/elmomk/rusty_gorilla_coach) — Full-stack fitness coaching app in Rust (Leptos + Axum)
+- [tmux_cc_attention](https://github.com/elmomk/tmux_cc_attention) — tmux plugin that alerts you when Claude Code needs attention
 - [dotfiles](https://github.com/elmomk/dotfiles) — Arch Linux / Hyprland / Neovim setup
 
-## Stack
-
+**Languages**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+**Infra**
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Platforms**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+
+**Tools**
+![Neovim](https://img.shields.io/badge/Neovim_(btw)-57A143?style=flat&logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux_(btw)-1793D1?style=flat&logo=archlinux&logoColor=white)
 
 ## Languages (the human kind)
 
