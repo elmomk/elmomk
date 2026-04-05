@@ -1,5 +1,7 @@
 # Hey, I'm Mo
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57A143&width=435&lines=Platform+Engineer;Rust+%2F+Go+%2F+Python;Kubernetes+%2F+Terraform+%2F+GitOps;Neovim+%26+Arch+Linux+btw" alt="Typing SVG" /></a>
+
 Platform engineer based in **Taipei, Taiwan** working at **momo.com**.
 
 I build infrastructure, internal developer platforms, automation for work, and backend services for fun — mostly with Rust, Go, Python, HCL, a lot of YAML, and whatever gets the job done. Lately I've been promoted to project manager of a team of AI agents who do the actual coding while I review PRs and pretend I wrote it.
@@ -46,6 +48,23 @@ I build infrastructure, internal developer platforms, automation for work, and b
 ![Chinese](https://img.shields.io/badge/Chinese-中文-DE2910?style=flat)
 ![French](https://img.shields.io/badge/French-français-002395?style=flat)
 ![Spanish](https://img.shields.io/badge/Spanish-español-AA151B?style=flat)
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=elmomk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmomk&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmomk&theme=tokyonight&hide_border=true" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elmomk/elmomk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elmomk/elmomk/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/elmomk/elmomk/output/github-snake-dark.svg" />
+</picture>
 
 ---
 
